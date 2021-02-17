@@ -1,0 +1,14 @@
+.pagelist{
+    margin-left: auto;
+    margin-right: auto;
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: repeat(10,1fr);
+    grid-gap: 10px;
+    justify-content:center
+}
+.pagelist li button{
+    display: block;
+    height: 30px;
+    width: 30px;
+}

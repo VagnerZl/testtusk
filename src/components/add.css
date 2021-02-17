@@ -1,0 +1,6 @@
+.form-active{
+    display: flex;
+}
+.form-none{
+    display: none;
+}

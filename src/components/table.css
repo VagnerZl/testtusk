@@ -1,0 +1,8 @@
+.main-table{
+    border: 1px solid grey;
+    border-collapse: collapse;
+    margin: 30px auto;
+}
+th, td {
+    border: 1px solid grey;
+ }
